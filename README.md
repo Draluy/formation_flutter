@@ -16,7 +16,7 @@ Permettre de faire un premier petit programme en flutter pour en montrer les ava
 
 Sur une journee, nous serons dans un local loue par Arca, chaque personne avec un pc portable (OS heterogenes), et une connexion wifi.
 
-1. Il nous faudra commencer par installer et configurer le poste de travail pour developper.
+1. Il nous faudra commencer par installer et configurer le poste de travail pour developper. Voir le [tutoriel](https://flutter.dev/docs/get-started/install) pour n'importe quel éditeur 
 2. Ensuite (ou en parallele si telechargements longs), il faudra faire une presentation pour expliquer les grandes lignes du developpement flutter.
 3. Enfin je pensais a une exercice pour creer une petite application
 
