@@ -1,4 +1,4 @@
-# Installer le SDK
+# 1. Installer le SDK
 
 Je vous propose d'installer le SDk a partir d'Intellij.
 
@@ -6,6 +6,15 @@ Pour ce faire :
 
 1. Installer le plugin flutter. Redemarre IntelliJ
 2. Demarrer un nouveau projet flutter. Intellij va alors installer le SDK flutter, et le SDK Android si besoin.
+
+# 2. Connecter un telephone
+
+Pour les telephones Android:
+
+1. Activer les `developer options`
+2. Activer `USB Debugging`
+
+Le telephone devrait apparaitre en haut de Intellij, dans la liste des `device` possibles.
 
 ## Erreurs possibles
 
