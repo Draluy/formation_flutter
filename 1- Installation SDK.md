@@ -29,5 +29,9 @@ Utilisez une version 10 du SDK est la maniere la plus simple de resoudre le prob
 
 Alternativement, vous pouvez essayer de rajouter cette variable d'environnement (ici pour windows): `set JAVA_OPTS=-XX:+IgnoreUnrecognizedVMOptions --add-modules java.se.ee`
 
+### "... were declared as an inputs, but did not exist."
 
+Il s'agit de fichiers intermediaires de compilation de dart qui referencent des fichiers qui n'existent plus sur le disque.
+
+Supprimer le dossier .dart_tool a la racine du projet et recompiler.
 
